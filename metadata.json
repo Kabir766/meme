@@ -1,0 +1,8 @@
+{
+  "name": "Desi Bites",
+  "description": "Modern Indian restaurant AI ordering application built with Python, Streamlit, LangChain, LangGraph, and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
